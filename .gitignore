@@ -6,3 +6,6 @@ venv
 db.sqlite3
 /static
 .DS_Store
+
+pa_autoconfigure_django.py --python=3.6
+https://github.com/<your-github-username>/my-first-blog.git
